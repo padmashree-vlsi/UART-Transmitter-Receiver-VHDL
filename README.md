@@ -182,7 +182,7 @@ UART LOOPBACK TESTS COMPLETED!
 
 
 
-!\[UART Loopback Simulation](screenshots/uart\_loopback\_simulation.png)
+![UART Loopback Simulation](./screenshots/uart_loopback_simulation.png)
 
 
 
