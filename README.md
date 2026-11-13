@@ -181,9 +181,7 @@ UART LOOPBACK TESTS COMPLETED!
 \## Simulation Waveform
 
 
-
-![UART Loopback Simulation](./screenshots/uart_loopback_simulation.png)
-
+![UART Loopback Simulation](screenshots/uart_loopback_simulation.png)
 
 
 \## FPGA Implementation
